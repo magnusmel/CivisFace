@@ -1,3 +1,7 @@
+# Maintenance
+
+:heavy_exclamation_mark: This repository is released as is and is not actively maintained by Civis.
+
 # Introduction 
 
 This is an iOS app for exploring facial recognition using [react-native](https://facebook.github.io/react-native/), [AWS Rekognition](https://aws.amazon.com/rekognition/), and [AWS Polly](https://aws.amazon.com/polly/).  It was made to playfully recognize our employees around the office from their staff photos and to educate visitors on facial recognition technology.
